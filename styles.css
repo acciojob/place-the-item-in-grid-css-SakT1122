@@ -1,2 +1,49 @@
 
 /* Your CSS Code here. */
+.item-1{
+	height: 100px;
+	width: 100px;
+	background: green;
+	border: 1px solid green;
+	text-align: center;
+
+}
+.item-1{
+	height: 100px;
+	width: 100px;
+	background: green;
+	border: 1px solid green;
+	text-align: center;
+
+}
+.item-2{
+	height: 100px;
+	width: 100px;
+	background: green;
+	border: 1px solid green;
+	text-align: center;
+
+}
+.item-3{
+	height: 100px;
+	width: 100px;
+	background: green;
+	border: 1px solid green;
+	text-align: center;
+
+}
+.item-4{
+	height: 100px;
+	width: 100px;
+	background: green;
+	border: 1px solid green;
+	text-align: center;
+
+}
+.holder{
+	display:grid;
+	grid:auto auto /auto auto;
+	grid-width:200px;
+	justify-content: center;
+	align-items: center;
+}
